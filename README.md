@@ -1,19 +1,19 @@
 # 🚀 Hi, I'm Asif 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00E6FF&center=true&vCenter=true&width=900&lines=CSE+Student+at+BAUST;Java+Developer+%F0%9F%92%BB;JavaFX+%2B+MySQL+Enthusiast;Future+Software+Engineer+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=CSE+Student+at+BAUST;Java+Developer;JavaFX+%2B+MySQL+Learner;Aspiring+Software+Engineer" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-✨ CSE Student at BAUST  
-💻 Passionate Java Developer  
-🌱 Learning JavaFX + MySQL  
-🧠 Love Problem Solving  
-🎯 Goal: Software Engineer  
-📍 Thakurgaon, Rangpur Division, Bangladesh  
+- 🎓 CSE Student at BAUST  
+- 💻 Java Developer  
+- 🌱 Currently learning JavaFX & MySQL  
+- 🧠 Interested in Software Development & Problem Solving  
+- 🎯 Goal: Become a Professional Software Engineer  
+- 📍 Thakurgaon, Rangpur Division, Bangladesh  
 
 ---
 
@@ -21,8 +21,8 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaFX-0096FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -36,16 +36,14 @@
 
 ## 📂 Featured Project
 
-<div align="center">
-
 ### 🎓 Tuition Fee Management System
 
-💡 JavaFX + MySQL Desktop Application  
-📊 Student fee management system  
-🔐 Secure database handling  
-🎯 Built for academic real-world practice  
+JavaFX + MySQL based desktop application designed for managing student tuition fees.
 
-</div>
+✔ Student fee tracking  
+✔ Database integration  
+✔ Simple UI design  
+✔ Academic project  
 
 ---
 
@@ -66,7 +64,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=asifashikur&theme=tokyonight&row=1&column=6"/>
@@ -93,21 +91,11 @@
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=asifashikur&label=Profile%20Views&color=00E6FF&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=asifashikur&label=Profile%20Views&color=00C2FF&style=flat"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## ⚡ Quote
-
-<p align="center">
-<b>"Code. Learn. Build. Repeat." 🚀</b>
+<b>Code. Learn. Build. Repeat. 🚀</b>
 </p>
