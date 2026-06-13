@@ -72,21 +72,35 @@ I'm a **CSE Student at BAUST** passionate about software development and problem
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Project
+
+<div align="center">
 
 ### 🎓 Tuition Fee Management System
+
 JavaFX + MySQL based desktop application for managing student tuition fees efficiently.
 
----
-
-## 🌐 Let's Connect 
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdashikurrahman.asif.908)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ashikur-rahman-asif-82456737a)
+</div>
 
 ---
 
-## 📊 My GitHub Journey
+## 🌐 Let's Connect
+
+<p align="center">
+
+<a href="https://www.facebook.com/mdashikurrahman.asif.908">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/md-ashikur-rahman-asif-82456737a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asifashikur&show_icons=true&theme=tokyonight"/>
@@ -103,7 +117,7 @@ JavaFX + MySQL based desktop application for managing student tuition fees effic
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=asifashikur&theme=tokyonight&row=1&column=6"/>
@@ -115,6 +129,14 @@ JavaFX + MySQL based desktop application for managing student tuition fees effic
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=asifashikur&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake (Optional)
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
