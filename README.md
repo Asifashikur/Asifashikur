@@ -38,10 +38,7 @@ JavaFX + MySQL based desktop application for managing student tuition fees effic
 
 ---
 
-## 🌐 Let's Connect
-
-- 📘 Facebook: [Click Here](https://www.facebook.com/mdashikurrahman.asif.908)  
-- 💼 LinkedIn: [Click Here](https://www.linkedin.com/in/md-ashikur-rahman-asif-82456737a)
+## 🌐 Let's Connect [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/mdashikurrahman.asif.908) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/md-ashikur-rahman-asif-82456737a)
 
 ---
 
