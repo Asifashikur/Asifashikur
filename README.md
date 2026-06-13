@@ -1,18 +1,18 @@
 # 🚀 Hi, I'm Asif 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=CSE+Student+at+BAUST;Java+Developer+%F0%9F%92%BB;JavaFX+Enthusiast;Future+Software+Engineer+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00E6FF&center=true&vCenter=true&width=900&lines=CSE+Student+at+BAUST;Java+Developer+%F0%9F%92%BB;JavaFX+%2B+MySQL+Enthusiast;Future+Software+Engineer+%F0%9F%9A%80" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 CSE Student at BAUST  
+✨ CSE Student at BAUST  
 💻 Passionate Java Developer  
-🌱 Currently learning JavaFX + MySQL  
-🧠 Problem Solving Enthusiast  
-🎯 Goal: Become a Professional Software Engineer  
+🌱 Learning JavaFX + MySQL  
+🧠 Love Problem Solving  
+🎯 Goal: Software Engineer  
 📍 Thakurgaon, Rangpur Division, Bangladesh  
 
 ---
@@ -21,14 +21,14 @@
 
 <p align="center">
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-0096FF?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![NetBeans](https://img.shields.io/badge/NetBeans-blue?style=for-the-badge)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaFX-0096FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge"/>
 
 </p>
 
@@ -36,25 +36,29 @@
 
 ## 📂 Featured Project
 
+<div align="center">
+
 ### 🎓 Tuition Fee Management System
 
-🚀 JavaFX + MySQL Desktop Application  
-📊 Manages student tuition fees efficiently  
-💾 Secure database integration  
-🎯 Built for real-world academic use  
+💡 JavaFX + MySQL Desktop Application  
+📊 Student fee management system  
+🔐 Secure database handling  
+🎯 Built for academic real-world practice  
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=asifashikur&show_icons=true&theme=tokyonight" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifashikur&layout=compact&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=asifashikur&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifashikur&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifashikur&theme=tokyonight"/>
@@ -62,7 +66,7 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=asifashikur&theme=tokyonight&row=1&column=6"/>
@@ -89,12 +93,12 @@
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=asifashikur&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=asifashikur&label=Profile%20Views&color=00E6FF&style=flat"/>
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
@@ -102,6 +106,8 @@
 
 ---
 
+## ⚡ Quote
+
 <p align="center">
-<i>Code. Learn. Build. Repeat. 🚀</i>
+<b>"Code. Learn. Build. Repeat." 🚀</b>
 </p>
