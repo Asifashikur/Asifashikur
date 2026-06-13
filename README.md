@@ -15,9 +15,9 @@
 
 - https://www.facebook.com/mdashikurrahman.asif.908
 - https://www.linkedin.com/in/md-ashikur-rahman-asif-82456737a
--# Hi 👋, I'm Asif Ashikur
+# Hi 👋, I'm Asif Ashikur
 
--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&width=600&lines=CSE+Student;Java+Developer;JavaFX+Learner;Future+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&width=600&lines=CSE+Student;Java+Developer;JavaFX+Learner)](https://git.io/typing-svg)
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=asifashikur&show_icons=true&theme=tokyonight)
@@ -40,13 +40,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ## 🌐 Connect With Me
 
-<a href="https://www.facebook.com/mdashikurrahman.asif.908">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdashikurrahman.asif.908)
 
-<a href="https://www.linkedin.com/in/md-ashikur-rahman-asif-82456737a">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ashikur-rahman-asif-82456737a)
+
+<br>
+
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=asifashikur&color=blue)
