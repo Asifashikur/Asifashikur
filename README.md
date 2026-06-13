@@ -15,8 +15,7 @@ I'm a **CSE Student at BAUST** passionate about software development and problem
 * 🌱 Currently Learning JavaFX
 * 🗄️ Learning Database & MySQL
 * 🎯 Goal: Become a Professional Software Engineer
-* 🇧🇩 From Bangladesh
-
+* Thakurgaon, Rangpur Division, Bangladesh
 ---
 
 ## 🛠 My Tech Arsenal
@@ -37,13 +36,6 @@ I'm a **CSE Student at BAUST** passionate about software development and problem
 
 JavaFX + MySQL based desktop application.
 
-### 🧮 Student Result Management System
-
-Java application for managing student records and results.
-
-### 📚 Library Management System
-
-Object-Oriented Java project.
 
 ---
 
