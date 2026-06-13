@@ -13,5 +13,5 @@
 
 ## Contact
 
-- Facebook
-- LinkedIn
+- https://www.facebook.com/mdashikurrahman.asif.908
+- https://www.linkedin.com/in/md-ashikur-rahman-asif-82456737a
