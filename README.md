@@ -6,6 +6,26 @@
 
 ---
 
+## 🌐 Competitive Programming Profiles
+
+<p align="center">
+
+<a href="https://codeforces.com/profile/mdashikurrahmanasif691">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/dashboard">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 - 🎓 CSE Student at BAUST  
