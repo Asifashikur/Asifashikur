@@ -10,15 +10,15 @@
 
 <p align="center">
 
-<a href="https://codeforces.com/profile/mdashikurrahmanasif691">
+<a href="https://codeforces.com/profile/mdashikurrahmanasif691" target="_blank">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/dashboard">
+<a href="https://www.hackerrank.com/profile/mdashikurrahmanasif691" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/_Asif_/">
+<a href="https://leetcode.com/u/_Asif_/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -28,12 +28,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 CSE Student at BAUST  
-- 💻 Java Developer  
-- 🌱 Currently learning JavaFX & MySQL  
-- 🧠 Interested in Software Development & Problem Solving  
-- 🎯 Goal: Become a Professional Software Engineer  
-- 📍 Thakurgaon, Rangpur Division, Bangladesh  
+- 🎓 **Education:** CSE Student at BAUST  
+- 💻 **Focus:** Java Developer  
+- 🌱 **Currently Learning:** JavaFX & MySQL  
+- 🧠 **Interests:** Software Development & Problem Solving  
+- 🎯 **Goal:** Become a Professional Software Engineer  
+- 📍 **Location:** Thakurgaon, Rangpur Division, Bangladesh  
 
 ---
 
@@ -60,18 +60,18 @@
 
 JavaFX + MySQL based desktop application for managing student tuition fees.
 
-✔ Student fee tracking  
-✔ Database integration  
-✔ Simple UI design  
-✔ Academic project  
+- ✔ Student fee tracking  
+- ✔ Database integration  
+- ✔ Simple UI design  
+- ✔ Academic project  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=asifashikur&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifashikur&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Asifashikur&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asifashikur&layout=compact&theme=tokyonight&hide=html" height="170"/>
 </p>
 
 ---
@@ -79,15 +79,7 @@ JavaFX + MySQL based desktop application for managing student tuition fees.
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asifashikur&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=asifashikur&theme=tokyonight&row=1&column=6"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asifashikur&theme=tokyonight" />
 </p>
 
 ---
@@ -95,7 +87,7 @@ JavaFX + MySQL based desktop application for managing student tuition fees.
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifashikur&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asifashikur&theme=tokyo-night" />
 </p>
 
 ---
@@ -110,16 +102,16 @@ JavaFX + MySQL based desktop application for managing student tuition fees.
 
 ## 🌐 Connect With Me
 
-📧 Personal Email: mdashikurrahmanasif691@gmail.com  
-🎓 Official Email: 0802510205101001@baust.edu.bd  
+📧 **Personal Email:** [mdashikurrahmanasif691@gmail.com](mailto:mdashikurrahmanasif691@gmail.com)  
+🎓 **Official Email:** [0802510205101001@baust.edu.bd](mailto:0802510205101001@baust.edu.bd)  
 
 <p align="center">
 
-<a href="https://www.facebook.com/mdashikurrahman.asif.908">
+<a href="https://www.facebook.com/mdashikurrahman.asif.908" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/md-ashikur-rahman-asif-82456737a">
+<a href="https://www.linkedin.com/in/md-ashikur-rahman-asif-82456737a" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -130,7 +122,7 @@ JavaFX + MySQL based desktop application for managing student tuition fees.
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=asifashikur&label=Profile%20Views&color=00C2FF&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Asifashikur&label=Profile%20Views&color=00C2FF&style=flat"/>
 </p>
 
 ---
