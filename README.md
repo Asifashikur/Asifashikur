@@ -6,6 +6,18 @@
 
 ---
 
+## 👨‍💻 About Me
+
+- 🎓 **Education:** CSE Student at BAUST  
+- 💻 **Focus:** Java Developer  
+- 🌱 **Currently Learning:** JavaFX & MySQL  
+- 🛠 **Currently Working On:** Tuition Fee Management System  
+- 🧠 **Interests:** Software Development & Problem Solving  
+- 🎯 **Goal:** Become a Professional Software Engineer  
+- 📍 **Location:** Thakurgaon, Rangpur Division, Bangladesh  
+
+---
+
 ## 🌐 Competitive Programming Profiles
 
 <p align="center">
@@ -23,17 +35,6 @@
 </a>
 
 </p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 **Education:** CSE Student at BAUST  
-- 💻 **Focus:** Java Developer  
-- 🌱 **Currently Learning:** JavaFX & MySQL  
-- 🧠 **Interests:** Software Development & Problem Solving  
-- 🎯 **Goal:** Become a Professional Software Engineer  
-- 📍 **Location:** Thakurgaon, Rangpur Division, Bangladesh  
 
 ---
 
@@ -94,6 +95,14 @@ JavaFX + MySQL based desktop application for managing student tuition fees.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asifashikur&theme=tokyo-night" />
+</p>
+
+---
+
+## 😂 Random Developer Joke
+
+<p align="center">
+  <img src="https://readme-jokes-four.vercel.app/api?theme=tokyonight" />
 </p>
 
 ---
