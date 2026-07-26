@@ -60,18 +60,24 @@
 
 JavaFX + MySQL based desktop application for managing student tuition fees.
 
-- ✔ Student fee tracking  
-- ✔ Database integration  
-- ✔ Simple UI design  
-- ✔ Academic project  
+<p align="center">
+  <a href="https://github.com/Asifashikur/Tuition-Fee-Management-System">
+    <img src="https://github-readme-stats-two.vercel.app/api/pin/?username=Asifashikur&repo=Tuition-Fee-Management-System&theme=tokyonight" />
+  </a>
+</p>
+
+- ✔ **Student fee tracking**  
+- ✔ **Database integration**  
+- ✔ **Simple UI design**  
+- ✔ **Academic project**  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asifashikur&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asifashikur&layout=compact&theme=tokyonight&hide=html" height="170"/>
+  <img src="https://github-readme-stats-two.vercel.app/api?username=Asifashikur&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=Asifashikur&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
